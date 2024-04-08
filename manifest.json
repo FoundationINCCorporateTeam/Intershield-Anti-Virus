@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Download Scanner",
+  "version": "1.0",
+  "description": "Scan file downloads for potentially harmful files.",
+  "permissions": ["downloads"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content_script.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
