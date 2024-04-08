@@ -1,24 +1,48 @@
-This is free and unencumbered software released into the public domain.
+InterShield Software License Agreement (Version 1.0)
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+This Software License Agreement ("Agreement") is entered into between InterShield ("Licensor") and any individual or entity that uses, copies, modifies, or distributes the software contained in this repository ("Licensee").
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+1. Definitions
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+1.1 "Software" refers to all files and materials provided by Licensor, including but not limited to source code, object code, documentation, and any related materials.
 
-For more information, please refer to <https://unlicense.org>
+1.2 "Licensee" refers to any individual or entity that uses, copies, modifies, or distributes the Software.
+
+2. Grant of License
+
+2.1 Licensor hereby grants Licensee a non-exclusive, non-transferable, revocable license to use, copy, modify, and distribute the Software for personal or internal business purposes only, subject to the terms and conditions of this Agreement.
+
+2.2 Licensee shall not sublicense, sell, lease, rent, or otherwise transfer the Software to any third party without the prior written consent of Licensor.
+
+3. Attribution Requirement
+
+3.1 If Licensee distributes or publicly performs the Software, Licensee must attribute the Software to Licensor and provide a link to the original repository.
+
+4. Intellectual Property Rights
+
+4.1 Licensor retains all rights, title, and interest in and to the Software, including all intellectual property rights therein. Licensee acknowledges that no title to the intellectual property rights in the Software is transferred to Licensee under this Agreement.
+
+4.2 Licensee shall not remove, alter, or obscure any copyright, trademark, or other proprietary notices contained in or on the Software.
+
+5. Disclaimer of Warranty
+
+5.1 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. LICENSOR DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT OF THIRD PARTY RIGHTS.
+
+6. Limitation of Liability
+
+6.1 IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) ARISING IN ANY WAY OUT OF THE USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. Governing Law and Jurisdiction
+
+7.1 This Agreement shall be governed by and construed in accordance with the laws of [Your Country], without regard to its conflicts of law principles.
+
+7.2 Any dispute arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of Minnesota, United States of America.
+
+8. Entire Agreement
+
+8.1 This Agreement constitutes the entire agreement between Licensor and Licensee with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether written or oral, relating to such subject matter.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written
+Licensor
+InterShield
+4/8/24
